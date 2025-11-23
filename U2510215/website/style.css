@@ -1,0 +1,22 @@
+.head {
+    background-color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tittle {
+    color: yellow;
+}
+
+.moods{
+    display: flex;
+    
+}
+
+.mood{
+    margin-left: 40px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
